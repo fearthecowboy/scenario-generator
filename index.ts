@@ -1,2 +1,3 @@
+import { hi } from "https://aka.ms/scenario-generator";
 
-console.log('hi')
+hi();
