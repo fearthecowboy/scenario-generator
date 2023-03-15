@@ -11,5 +11,5 @@ async function main() {
 void main();
 
 export function hi() {
-  console.log('hi there, this is cool');
+  console.log('hi there, this is cool two');
 }
